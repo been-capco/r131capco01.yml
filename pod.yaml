@@ -9,3 +9,4 @@ spec:
       image: beena1994/sre-test-image:1.0
       ports:
         - containerPort: 3015
+        
