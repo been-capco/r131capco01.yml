@@ -24,7 +24,7 @@ spec: # It define the behavior of the Deployment
             cpu: "200m"  
         ports:
         - containerPort: 3015
- ---
+---
 apiVersion: v1
 kind: Service
 metadata:
